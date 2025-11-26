@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    text-align: center;
+    padding: 20px;    
+}
+p {
+    font-size: 500%;
+}
