@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font: 1em sans-serif;
+}
+
+h1 {
+  position: absolute;
+  top: 40vh;
+  left: 44%;
+  font-size: 24px;
+}
+
+button {
+  position: relative;
+  top: 50vh;
+  left: 42%;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #a8a6a6;
+}
+
+img {
+  position: absolute;
+  width: 20vh;
+  height: auto;
+  top: 5vh;
+  left: 45%;
+}
